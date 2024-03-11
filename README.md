@@ -62,15 +62,6 @@ Features include:
 
 # Quickstart
 
-### Setting up the environment variables
-
-Navigate into your projects directory and get your environment variables ready:
-
-```shell
-cd nextjs-starter-medusa/
-mv .env.template .env.local
-```
-
 ### Install dependencies
 
 Use Yarn to install all dependencies.
