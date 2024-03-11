@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://www.medusajs.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/59018053/229103275-b5e482bb-4601-46e6-8142-244f531cebdb.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/59018053/229103726-e5b529a3-9b3f-4970-8a1f-c6af37f087bf.svg">
-    <img alt="Medusa logo" src="https://btabcorp.com/btabcloud/uploads/2015/08/favicon.ico">
+<!--     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/59018053/229103275-b5e482bb-4601-46e6-8142-244f531cebdb.svg"> -->
+<!--     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/59018053/229103726-e5b529a3-9b3f-4970-8a1f-c6af37f087bf.svg"> -->
+    <img alt="Medusa logo" src="https://btabcorp.com/btabcloud/uploads/2015/08/Btab_logo_big.png">
     </picture>
   </a>
 </p>
@@ -29,14 +29,7 @@ Combine Medusa's modules for your commerce backend with the newest Next.js 14 fe
 
 ### Prerequisites
 
-To use the [Next.js Starter Template](https://medusajs.com/nextjs-commerce/), you should have a Medusa server running locally on port 9000.
-For a quick setup, run:
-
-```shell
-npx create-medusa-app@latest
-```
-
-Check out [create-medusa-app docs](https://docs.medusajs.com/create-medusa-app) for more details and troubleshooting.
+To use the [Next.js Starter Template](https://medusajs.com/nextjs-commerce/), you should have run btab_backdrop server running locally on port 9000.
 
 # Overview
 
@@ -68,15 +61,6 @@ Features include:
 
 
 # Quickstart
-
-### Setting up the environment variables
-
-Navigate into your projects directory and get your environment variables ready:
-
-```shell
-cd nextjs-starter-medusa/
-mv .env.template .env.local
-```
 
 ### Install dependencies
 
